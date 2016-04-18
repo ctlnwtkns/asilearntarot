@@ -1,28 +1,58 @@
-#wrapper{
-     
+
+header{
+    text-align: center;
 }
 
-#header{
-   
-}
-
-#content{
+nav{
+    text-align: center;
+    padding-bottom: 5px;
   
 }
 
-#footer{
+footer.alt{
     position:absolute;
-    bottom:0;
+    left:10px;
+    bottom:0px;
+    height:30px; 
     width:100%;
-    height:25px;   
+}
+
+footer {
+   position:relative;
+   left:10px;
+   bottom:0px;
+   height:30px;
+   width:100%;  
 }
 
 img{
     width: 25%;
     height: auto;
-    align-items: center;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
 }
 
 ul{
     list-style-type: none;
 }
+
+<!-- remove dot after number in ordered list http://jsbin.com/ukojo4/132/edit?html,css,output -->
+
+.testclass { 
+  
+}
+
+.testclass li { 
+   counter-increment: item;
+}
+
+.testclass li:before { 
+  content: counter(item) ' ';
+}
+ol { 
+    counter-reset: item;
+    list-style-type: none;
+}
+<!-- end comment -->
