@@ -18,7 +18,11 @@
 }
 
 img{
-    width: 50%;
+    width: 25%;
     height: auto;
     align-items: center;
+}
+
+ul{
+    list-style-type: none;
 }
