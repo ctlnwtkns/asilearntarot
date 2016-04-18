@@ -34,8 +34,20 @@ img{
     margin-right: auto ;
 }
 
+img.voice{
+    width: 15%;
+    height: auto;
+}
+
 ul{
     list-style-type: none;
+}
+    
+#navlist li
+{
+display: inline;
+list-style-type: none;
+padding-right: 20px;
 }
 
 <!-- remove dot after number in ordered list http://jsbin.com/ukojo4/132/edit?html,css,output -->
