@@ -1,0 +1,1 @@
+{"url": "https://docs.google.com/open?id=1SOrRaNAMkmjzlDR8vlR4kY-bSU4SnxkAaM2IoTuUPj8", "doc_id": "1SOrRaNAMkmjzlDR8vlR4kY-bSU4SnxkAaM2IoTuUPj8", "email": "ctlnwtkns@gmail.com", "resource_id": "document:1SOrRaNAMkmjzlDR8vlR4kY-bSU4SnxkAaM2IoTuUPj8"}
