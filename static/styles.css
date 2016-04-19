@@ -1,6 +1,36 @@
+html{
+    margin: 0;
+    padding: 0;
+    background-color: lavender;
+}
+
+body {
+    font-family: Georgia, "Times New Roman", sans-serif;
+    width: 70%;
+    margin: 4em auto;
+    background-color: antiquewhite;
+}
 
 header{
     text-align: center;
+    font-style: italic;
+    margin: 2em;
+    padding-top: 5px;
+}
+
+p{
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 1em;
+    font-size: 1em;
+}
+
+h1{
+    
+}
+
+h2{
+    
 }
 
 nav{
@@ -28,10 +58,14 @@ footer {
 img{
     width: 25%;
     height: auto;
-    padding: 10px;
+    <!--padding: 10px;-->
     display: block;
     margin-left: auto;
-    margin-right: auto ;
+    margin-right: auto;
+    border-color: gray;
+    border-style: solid;
+    border-width: thick;
+    
 }
 
 img.voice{
@@ -66,5 +100,6 @@ padding-right: 10px;
 ol { 
     counter-reset: item;
     list-style-type: none;
+    text-align: left;
 }
 <!-- end comment -->
