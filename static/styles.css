@@ -107,7 +107,7 @@ padding-right: 10px;
 .testclass li:before { 
   content: counter(item) ' ';
 }
-ol { 
+ol.none { 
     counter-reset: item;
     list-style-type: none;
     text-align: left;
