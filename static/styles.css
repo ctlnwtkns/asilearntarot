@@ -12,6 +12,10 @@ body {
     border-color: gray;
     border-style: solid;
     border-width: thick;
+    padding-left: 2em;
+    padding-right: 2em;
+    position: relative;
+    
     
 }
 
@@ -81,6 +85,12 @@ img.voice{
 img.intuit{
     width: 40%;
     height: auto;
+}
+
+img.cube{
+    width: 60%;
+    height: auto;
+    
 }
 
 ul{
